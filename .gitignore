@@ -1,0 +1,10 @@
+# Dated copies of every published build — LOCAL ONLY.
+# Until 2026-09-28 these were committed, so the Pages repo carried 21 extra
+# full dashboards alongside index.html, each openable with the same password.
+# The remote must hold exactly one artifact: index.html.
+archive/
+
+# Board variant — not published through this repo.
+board.html
+
+.DS_Store
